@@ -5,15 +5,15 @@
 	</head>
 	<body>
 		<h1>Kaisha Murzamadiyeva</h1>
-
-		<h1>Kaisha Murzamadiyeva</h1>
 		<p>I want to create a creative tool. I really love the idea of being able to make your own music or sounds in a simple and fun way. I want to create objects that make a specific sound when the you press on them. The user can save their sounds as an mp3 file to listen to later on. I want the objects to be very abstract and almost float on the screen but without moving too far. When the mouse is pressed on an object, it will also expand and almost vibrate.</p>
 
-			<a href="">http://cell-flight.com/mural.html</a>
+		<p> My inspiration stem from this interesting game from the gallery section of the p5js website. This link here brings you to the project.
+
+		<a href="">http://cell-flight.com/mural.html</a>
 
 		<p> I also recently visited the Museum of Feelings and was very impressed with one room where there was a screen which you could swirl your finger around the screen, distorting an image in a beautiful abstract way. It would be awesome if I could utilize my trackpad somehow to distort an image but I am not sure if I am advanced enough to be able to do that in code and also I think the reason why the museum code was great was because it was distorting an image that was shown on the cieling for everyone to see while if it were on a small computer screen it wouldn't have quite the same effect. 
 		
-
+		
 	</body>
 
 </html>
